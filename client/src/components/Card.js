@@ -146,7 +146,7 @@ function WeatherCard() {
         </Card>
 
       </div>
-      <p style={{ textAlign: "center", fontStyle: "italic" }}>This project was coded by <a style={{ textDecoration: "none" }} href="https://github.com/achtu/react-weather-app" target="_blank" rel="noopener noreferrer" >achtu</a> and hosted on <a style={{ textDecoration: "none" }} href="https://app.netlify.com/teams/achtu/overview" target="_blank" rel="noopener noreferrer">Netify</a></p>
+      <p style={{ textAlign: "center", fontStyle: "italic" }}>This project was coded by <a style={{ textDecoration: "none" }} href="https://github.com/NischayGoyal1/Weather-App-Omnify" target="_blank" rel="noopener noreferrer" >NISCHAY</a></p>
     </>
   );
 }
