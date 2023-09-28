@@ -1,0 +1,55 @@
+/* HOME PAGE */
+.home-container {
+  color: #48484a;
+  height: 100vh;
+  padding-top: 10vh;
+}
+
+/*  CARD   */
+.card-wrap {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.card-descr {
+  padding: 0px;
+  margin: 0px;
+  font-size: 20px;
+}
+
+.umbrella-i {
+  padding-bottom: 20px;
+  padding-left: 70px;
+}
+
+.card-body {
+  min-height: 300px;
+  height: 50vh;
+  align-items: center;
+  margin: 5px auto;
+}
+
+.hourly-wrp {
+  text-align: center;
+}
+.min{
+  font-weight: 600;
+  color: #48484a;
+}
+/* FORM */
+.form-wrap {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  margin: 0px auto;
+  padding-bottom: 5vh;
+}
+
+.enter-city-p {
+  text-align: center;
+  margin-top: 4vh;
+}
